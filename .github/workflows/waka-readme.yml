@@ -13,8 +13,6 @@ jobs:
       - uses: anmo1098/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "ko"
           SHOW_LINES_OF_CODE: "True"
