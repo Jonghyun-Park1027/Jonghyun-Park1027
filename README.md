@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter           5 hrs 4 mins    ███████████████████▒░░░░░   76.77 %
-Python            35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Markdown          34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-GitIgnore file    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-GitExclude file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-CSV/TSV           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Jupyter           7 hrs 38 mins   ██████████████████▓░░░░░░   75.23 %
+Markdown          1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Python            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+GitIgnore file    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GitExclude file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+CSV/TSV           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
