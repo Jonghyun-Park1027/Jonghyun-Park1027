@@ -6,7 +6,8 @@
 </p>
 <details>
 <summary><b>📊 Wakatime stats</b><br></summary>
-
+<div>
+<hr/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppjjhh1027)](https://solved.ac/ppjjhh1027/)
