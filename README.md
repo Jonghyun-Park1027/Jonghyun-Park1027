@@ -25,5 +25,5 @@ CSV/TSV           5 mins          ▒░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonghyun-Park1027&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghyun-Park1027&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-[![wakatime](https://wakatime.com/badge/user/71e9b086-2699-4f07-a98e-cfef62a19780.svg)](https://wakatime.com/@71e9b086-2699-4f07-a98e-cfef62a19780)
+[![wakatime](https://wakatime.com/badge/user/71e9b086-2699-4f07-a98e-cfef62a19780.svg)](https://wakatime.com/@71e9b086-2699-4f07-a98e-cfef62a19780)]
 
