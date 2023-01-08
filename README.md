@@ -21,6 +21,9 @@ CSV/TSV           5 mins          ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonghyun-Park1027&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonghyun-Park1027&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonghyun-Park1027)](https://github.com/anuraghazra/github-readme-stats)
