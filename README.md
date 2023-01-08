@@ -7,6 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 31 December 2022 - To: 07 January 2023
+
+Total Time: 10 hrs 8 mins
+
 Jupyter           7 hrs 38 mins   ██████████████████▓░░░░░░   75.23 %
 Markdown          1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
 Python            40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
