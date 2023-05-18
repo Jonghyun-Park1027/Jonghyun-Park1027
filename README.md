@@ -62,17 +62,16 @@ Sunday                   43 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Jupyter                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-statistics               1 hr 16 mins        █████████████████████████   98.17 % 
-AIfactory_competition    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +86,7 @@ R                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2023 18:33:48 UTC
+ Last Updated on 18/05/2023 18:33:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
