@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,17 +62,17 @@ Sunday                   43 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Jupyter                  11 hrs 3 mins       █████████████████████████   100.00 % 
+Jupyter                  16 hrs 59 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 3 mins       █████████████████████████   100.00 % 
+PyCharm                  16 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-실기                       10 hrs 46 mins      ████████████████████████░   97.53 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+실기                       16 hrs 37 mins      ████████████████████████░   97.80 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Windows                  11 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +87,7 @@ R                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2023 18:33:54 UTC
+ Last Updated on 16/06/2023 18:33:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
