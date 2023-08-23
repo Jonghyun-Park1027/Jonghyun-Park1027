@@ -8,13 +8,13 @@
   <img height="180em" src="https://github-readme-stats-eight-rho-29.vercel.app/api/top-langs/?username=Jonghyun-Park1027&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppjjhh1027)](https://solved.ac/ppjjhh1027/)
+
 </p>
 <details>
 <summary><b>📊 Wakatime stats</b><br></summary>
 <div>
 <hr/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppjjhh1027)](https://solved.ac/ppjjhh1027/)
 
 
 
