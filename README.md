@@ -62,16 +62,16 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Codingtest               1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -84,7 +84,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/01/2024 18:33:47 UTC
+ Last Updated on 07/01/2024 18:33:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
