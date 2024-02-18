@@ -27,8 +27,6 @@
 
 > 📦 67.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -85,7 +83,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 17/02/2024 18:33:35 UTC
+ Last Updated on 18/02/2024 18:33:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
