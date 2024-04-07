@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,16 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   4 hrs 53 mins       █████████████████████████   100.00 % 
+Python                   4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Codingtest               4 hrs 53 mins       █████████████████████████   100.00 % 
+Codingtest               4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,7 +82,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/04/2024 18:33:38 UTC
+ Last Updated on 07/04/2024 18:34:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
