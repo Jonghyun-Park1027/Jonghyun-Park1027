@@ -27,8 +27,6 @@
 
 > 📦 73.4 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -62,19 +60,16 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Jupyter                  36 mins             █████████████████████████   98.28 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-data_dashboard           36 mins             █████████████████████████   98.28 % 
-practice                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-streamlit-tutorial       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +82,7 @@ C++                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 18:41:18 UTC
+ Last Updated on 13/11/2024 18:41:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
