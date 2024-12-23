@@ -60,16 +60,18 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pytorch-deep-learning    51 mins             █████████████░░░░░░░░░░░░   50.86 % 
+study_torch              45 mins             ███████████░░░░░░░░░░░░░░   44.50 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,7 +84,7 @@ C++                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 22/12/2024 18:39:00 UTC
+ Last Updated on 23/12/2024 18:41:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
