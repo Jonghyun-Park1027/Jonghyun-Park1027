@@ -27,8 +27,6 @@
 
 > 📦 103.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -62,17 +60,16 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   11 hrs 10 mins      █████████████████████████   99.82 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   11 hrs 11 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-task                     11 hrs 11 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -85,7 +82,7 @@ C++                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 02/03/2025 18:42:10 UTC
+ Last Updated on 03/03/2025 18:42:17 UTC
 <!--END_SECTION:waka-->
 </details>
 
