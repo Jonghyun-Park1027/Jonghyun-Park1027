@@ -60,16 +60,17 @@ Sunday                   41 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  0 secs              █████████████████████░░░░   85.43 % 
+CSV                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ai_철도경진대회                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,7 +83,7 @@ C++                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 04/05/2025 18:43:53 UTC
+ Last Updated on 05/05/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
