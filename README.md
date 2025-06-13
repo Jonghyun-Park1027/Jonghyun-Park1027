@@ -21,11 +21,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 104.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +62,19 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  18 mins             █████████████████████████   99.40 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+사각                       18 mins             ████████████████████████░   97.92 % 
+data_analysis.ipynb      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -82,7 +87,7 @@ C++                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 12/06/2025 18:47:39 UTC
+ Last Updated on 13/06/2025 18:47:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
