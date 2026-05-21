@@ -62,16 +62,16 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+language_study           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +87,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 20:33:38 UTC
+ Last Updated on 21/05/2026 20:17:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
