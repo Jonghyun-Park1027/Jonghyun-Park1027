@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,16 +62,16 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 hrs 54 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 3 hrs 54 mins       █████████████████████████   100.00 % 
+Obsidian                 7 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-language_study           3 hrs 54 mins       █████████████████████████   100.00 % 
+language_study           7 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +87,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 20:21:39 UTC
+ Last Updated on 02/07/2026 20:00:02 UTC
 <!--END_SECTION:waka-->
 </details>
 
