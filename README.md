@@ -19,10 +19,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2044%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -64,18 +60,20 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 mins              █████████████████████░░░░   85.11 % 
-Python                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Other                    6 mins              ██████████████████████░░░   87.16 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 
 🔥 Editors: 
-Terminal                 3 mins              █████████████████████░░░░   82.78 % 
-iTerm2                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Terminal                 3 mins              ████████████░░░░░░░░░░░░░   48.13 % 
+Antigravity              3 mins              █████████░░░░░░░░░░░░░░░░   37.68 % 
+iTerm2                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🐱‍💻 Projects: 
-language_study           4 mins              █████████████████████████   100.00 % 
+language_study           7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +95,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:02:55 UTC
+ Last Updated on 28/07/2026 19:59:35 UTC
 <!--END_SECTION:waka-->
 </details>
 
