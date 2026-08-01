@@ -64,26 +64,48 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 mins              ██████████████████████░░░   87.16 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Other                    24 mins             ████████████████████░░░░░   81.60 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Terminal                 3 mins              ████████████░░░░░░░░░░░░░   48.13 % 
-Antigravity              3 mins              █████████░░░░░░░░░░░░░░░░   37.68 % 
-iTerm2                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+iTerm2                   14 mins             ████████████░░░░░░░░░░░░░   49.02 % 
+Antigravity              6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Terminal                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Cursor                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🐱‍💻 Projects: 
-language_study           7 mins              █████████████████████████   100.00 % 
+resell                   15 mins             █████████████░░░░░░░░░░░░   52.74 % 
+language_study           13 mins             ████████████░░░░░░░░░░░░░   47.26 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (10.76%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 247,269 Input Tokens, 1,200 Output Tokens
+
+💵 $0.83 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 9,668 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -99,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:00:48 UTC
+ Last Updated on 01/08/2026 19:41:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
