@@ -19,10 +19,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -64,31 +60,31 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    43 mins             ███████████████████░░░░░░   75.89 % 
-Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    49 mins             ████████████████████░░░░░   78.26 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Terminal                 26 mins             ███████████░░░░░░░░░░░░░░   45.76 % 
-iTerm2                   13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Cursor                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Antigravity              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Terminal                 32 mins             █████████████░░░░░░░░░░░░   51.10 % 
+iTerm2                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+Cursor                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Antigravity              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🐱‍💻 Projects: 
-resell                   37 mins             ████████████████░░░░░░░░░   65.73 % 
-language_study           19 mins             █████████░░░░░░░░░░░░░░░░   34.27 % 
+resell                   37 mins             ███████████████░░░░░░░░░░   59.26 % 
+language_study           25 mins             ██████████░░░░░░░░░░░░░░░   40.74 % 
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (5.55%)
+⏱ AI Coding Time: 3 mins (5.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -121,7 +117,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:05:31 UTC
+ Last Updated on 07/08/2026 00:22:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
