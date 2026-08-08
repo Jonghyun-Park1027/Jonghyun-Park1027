@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,50 +64,49 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    49 mins             ████████████████░░░░░░░░░   64.23 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Other                    32 mins             ███████████████░░░░░░░░░░   58.32 % 
+JSON                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Terminal                 32 mins             ██████████░░░░░░░░░░░░░░░   41.97 % 
-iTerm2                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Cursor                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Agent                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Claude Code              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Terminal                 32 mins             ███████████████░░░░░░░░░░   58.14 % 
+Agent                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Cursor                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-resell                   37 mins             ████████████░░░░░░░░░░░░░   48.55 % 
-language_study           26 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
-Unknown Project          12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-OJT                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+resell                   22 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
+language_study           20 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
+Unknown Project          12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+OJT                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████░░░░   82.03 % 
-Windows                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Mac                      42 mins             ███████████████████░░░░░░   75.11 % 
+Windows                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (22.06%)
+⏱ AI Coding Time: 13 mins (24.89%)
 
 ✍️ 8 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 258,103 Input Tokens, 6,499 Output Tokens
+🔤 10,834 Input Tokens, 5,299 Output Tokens
 
-💵 $0.86 Estimated AI Cost This Week
+💵 $0.24 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 7 AI Prompts
+🧠 5 AI Sessions, 3 AI Prompts
 
 Sonnet                   8 lines             █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,792 characters per prompt
+📄 Detailed Prompter — average 624 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -125,7 +124,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:27:12 UTC
+ Last Updated on 08/08/2026 19:07:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
