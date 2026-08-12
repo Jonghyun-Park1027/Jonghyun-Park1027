@@ -23,7 +23,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,32 +64,31 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Other                    10 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Python                   9 mins              ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     11 mins             ██████████████░░░░░░░░░░░   55.87 % 
+Other                    6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Agent                    11 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
-Terminal                 10 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Cursor                   10 mins             ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Agent                    11 mins             ██████████████░░░░░░░░░░░   55.87 % 
+Terminal                 6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🐱‍💻 Projects: 
-language_study           20 mins             ███████████████░░░░░░░░░░   58.90 % 
-Unknown Project          12 mins             █████████░░░░░░░░░░░░░░░░   35.89 % 
-OJT                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Unknown Project          12 mins             ███████████████░░░░░░░░░░   60.27 % 
+language_study           6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
+OJT                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 💻 Operating System: 
-Mac                      20 mins             ███████████████░░░░░░░░░░   58.90 % 
-Windows                  13 mins             ██████████░░░░░░░░░░░░░░░   41.10 % 
+Windows                  13 mins             █████████████████░░░░░░░░   69.02 % 
+Mac                      6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (41.1%)
+⏱ AI Coding Time: 13 mins (69.02%)
 
 ✍️ 8 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -122,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:33:15 UTC
+ Last Updated on 12/08/2026 19:35:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
