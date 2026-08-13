@@ -37,77 +37,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                327 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌆 Daytime                466 commits         ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 Evening                212 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Wednesday                122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   238 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Saturday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JSON                     11 mins             ██████████████░░░░░░░░░░░   55.87 % 
-Other                    6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-
-🔥 Editors: 
-Agent                    11 mins             ██████████████░░░░░░░░░░░   55.87 % 
-Terminal                 6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Claude Code              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-
-🐱‍💻 Projects: 
-Unknown Project          12 mins             ███████████████░░░░░░░░░░   60.27 % 
-language_study           6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
-OJT                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-
-💻 Operating System: 
-Windows                  13 mins             █████████████████░░░░░░░░   69.02 % 
-Mac                      6 mins              ████████░░░░░░░░░░░░░░░░░   30.98 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 mins (69.02%)
-
-✍️ 8 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 10,834 Input Tokens, 5,299 Output Tokens
-
-💵 $0.24 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 3 AI Prompts
-
-Sonnet                   8 lines             █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 624 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -121,7 +50,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:35:18 UTC
+ Last Updated on 13/08/2026 19:33:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
