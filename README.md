@@ -64,27 +64,27 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 9 mins         █████████████████████████   98.41 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    1 hr 21 mins        █████████████████████████   98.63 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-iTerm2                   29 mins             ███████████░░░░░░░░░░░░░░   42.12 % 
-Obsidian                 25 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
-Notion                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+iTerm2                   41 mins             █████████████░░░░░░░░░░░░   50.30 % 
+Obsidian                 25 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Notion                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🐱‍💻 Projects: 
-OJT                      1 hr 9 mins         █████████████████████████   98.41 % 
-wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+OJT                      1 hr 21 mins        █████████████████████████   98.63 % 
+wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (5.99%)
+⏱ AI Coding Time: 4 mins (5.14%)
 
 ✍️ 28 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -116,7 +116,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:06:48 UTC
+ Last Updated on 18/08/2026 19:06:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
