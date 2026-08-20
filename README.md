@@ -64,27 +64,28 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        █████████████████████████   98.63 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other                    1 hr 44 mins        █████████████████████████   98.94 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-iTerm2                   41 mins             █████████████░░░░░░░░░░░░   50.30 % 
-Obsidian                 25 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Notion                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+iTerm2                   1 hr 1 min          ██████████████░░░░░░░░░░░   57.98 % 
+Obsidian                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Notion                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Terminal                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-OJT                      1 hr 21 mins        █████████████████████████   98.63 % 
-wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+OJT                      1 hr 44 mins        █████████████████████████   98.94 % 
+wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (5.14%)
+⏱ AI Coding Time: 4 mins (4.01%)
 
 ✍️ 28 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -116,7 +117,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:01:58 UTC
+ Last Updated on 20/08/2026 19:09:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
