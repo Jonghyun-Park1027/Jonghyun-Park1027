@@ -64,43 +64,48 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 44 mins        █████████████████████████   98.94 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other                    1 hr 44 mins        ██████████████████░░░░░░░   71.67 % 
+Markdown                 32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 1 min          ██████████████░░░░░░░░░░░   57.98 % 
-Obsidian                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Notion                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Terminal                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+iTerm2                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.01 % 
+Claude Code              27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Obsidian                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Notion                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 🐱‍💻 Projects: 
-OJT                      1 hr 44 mins        █████████████████████████   98.94 % 
-wiki                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+OJT                      1 hr 44 mins        ██████████████████░░░░░░░   71.67 % 
+wiki                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+restore-test             20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 
 💻 Operating System: 
-Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        ██████████████████░░░░░░░   72.44 % 
+Windows                  40 mins             ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (4.01%)
+⏱ AI Coding Time: 44 mins (30.46%)
 
-✍️ 28 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 52 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,034 Input Tokens, 5,475 Output Tokens
+🔤 71,149 Input Tokens, 30,701 Output Tokens
 
-💵 $0.21 Estimated AI Cost This Week
+💵 $2.42 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-Sonnet                   28 lines            █████████████████████████   100.00 % 
+Sonnet                   28 lines            █████████████░░░░░░░░░░░░   53.85 % 
+Opus                     24 lines            ████████████░░░░░░░░░░░░░   46.15 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 152 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -117,7 +122,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:09:58 UTC
+ Last Updated on 21/08/2026 19:05:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
