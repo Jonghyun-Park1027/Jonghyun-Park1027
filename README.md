@@ -64,31 +64,31 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs 2 mins        ███████████████████░░░░░░   75.33 % 
-Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Other                    1 hr 50 mins        ██████████████████░░░░░░░   73.43 % 
+Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Notion                   1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   39.79 % 
-iTerm2                   54 mins             ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Terminal                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Notion                   1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.86 % 
+iTerm2                   42 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Terminal                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🐱‍💻 Projects: 
-wiki                     1 hr 47 mins        ████████████████░░░░░░░░░   65.85 % 
-OJT                      34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-restore-test             20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+wiki                     1 hr 47 mins        ██████████████████░░░░░░░   70.93 % 
+OJT                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+restore-test             20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 
 💻 Operating System: 
-Mac                      2 hrs 2 mins        ███████████████████░░░░░░   75.33 % 
-Windows                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Mac                      1 hr 50 mins        ██████████████████░░░░░░░   73.43 % 
+Windows                  40 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (24.67%)
+⏱ AI Coding Time: 40 mins (26.57%)
 
 ✍️ 24 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -121,7 +121,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:55:44 UTC
+ Last Updated on 24/08/2026 19:09:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
