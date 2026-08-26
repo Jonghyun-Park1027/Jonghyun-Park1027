@@ -23,7 +23,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,31 +64,30 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 50 mins        ██████████████████░░░░░░░   73.43 % 
-Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Other                    1 hr 27 mins        █████████████████░░░░░░░░   68.57 % 
+Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Notion                   1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.86 % 
-iTerm2                   42 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Agent                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Terminal                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Notion                   1 hr 4 mins         █████████████░░░░░░░░░░░░   50.69 % 
+Claude Code              26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+iTerm2                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Agent                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-wiki                     1 hr 47 mins        ██████████████████░░░░░░░   70.93 % 
-OJT                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-restore-test             20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+wiki                     1 hr 47 mins        █████████████████████░░░░   83.89 % 
+restore-test             20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
 💻 Operating System: 
-Mac                      1 hr 50 mins        ██████████████████░░░░░░░   73.43 % 
-Windows                  40 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Mac                      1 hr 27 mins        █████████████████░░░░░░░░   68.57 % 
+Windows                  40 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (26.57%)
+⏱ AI Coding Time: 40 mins (31.43%)
 
 ✍️ 24 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -121,7 +120,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:07:46 UTC
+ Last Updated on 26/08/2026 20:27:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
