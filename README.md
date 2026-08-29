@@ -64,47 +64,24 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 27 mins        █████████████████░░░░░░░░   68.57 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Other                    1 hr 27 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   1 hr 4 mins         █████████████░░░░░░░░░░░░   50.69 % 
-Claude Code              26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-iTerm2                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Agent                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Notion                   1 hr 4 mins         ██████████████████░░░░░░░   73.93 % 
+iTerm2                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-wiki                     1 hr 47 mins        █████████████████████░░░░   83.89 % 
-restore-test             20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+wiki                     1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████░░░░░░░░   68.57 % 
-Windows                  40 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (31.43%)
-
-✍️ 24 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 62,115 Input Tokens, 25,226 Output Tokens
-
-💵 $2.21 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 9 AI Prompts
-
-Opus                     24 lines            █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -120,7 +97,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:15:37 UTC
+ Last Updated on 29/08/2026 01:50:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
