@@ -64,18 +64,19 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 27 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 7 mins        █████████████████████████   98.57 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Notion                   1 hr 4 mins         ██████████████████░░░░░░░   73.93 % 
-iTerm2                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Notion                   1 hr 4 mins         █████████████░░░░░░░░░░░░   50.13 % 
+iTerm2                   1 hr 4 mins         ████████████░░░░░░░░░░░░░   49.77 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-wiki                     1 hr 27 mins        █████████████████████████   100.00 % 
+wiki                     2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +98,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 01:50:04 UTC
+ Last Updated on 29/08/2026 21:03:42 UTC
 <!--END_SECTION:waka-->
 </details>
 
