@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2011%20mins-blue?style=flat)
 
@@ -64,19 +64,17 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs 7 mins        █████████████████████████   98.57 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    1 hr                ████████████████████████░   97.04 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Notion                   1 hr 4 mins         █████████████░░░░░░░░░░░░   50.13 % 
-iTerm2                   1 hr 4 mins         ████████████░░░░░░░░░░░░░   49.77 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+iTerm2                   1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wiki                     2 hrs 9 mins        █████████████████████████   100.00 % 
+wiki                     1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +96,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:03:42 UTC
+ Last Updated on 30/08/2026 21:20:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
