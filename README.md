@@ -29,11 +29,11 @@
 
 > 📦 260.4 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -64,23 +64,53 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr                ████████████████████████░   97.04 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown                 5 hrs 17 mins       █████████████░░░░░░░░░░░░   53.61 % 
+PowerShell               2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 2 mins         █████████████████████████   100.00 % 
+Claude Code              8 hrs 47 mins       ██████████████████████░░░   89.09 % 
+iTerm2                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-wiki                     1 hr 2 mins         █████████████████████████   100.00 % 
+wiki                     9 hrs 27 mins       ████████████████████████░   95.92 % 
+OCR                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  8 hrs 49 mins       ██████████████████████░░░   89.43 % 
+Mac                      1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 hrs 49 mins (89.43%)
+
+✍️ 7,282 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,751,157 Input Tokens, 848,338 Output Tokens
+
+💵 $135.59 Estimated AI Cost This Week
+
+🧠 113 AI Sessions, 196 AI Prompts
+
+Fable                    9,236 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,829 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -96,7 +126,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 21:11:44 UTC
+ Last Updated on 03/09/2026 21:11:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
