@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C612%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,36 +64,36 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-Python                   2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-PowerShell               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
+Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+PowerShell               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 13 mins       ████████████████░░░░░░░░░   65.54 % 
-Cursor                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-iTerm2                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Agent                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Claude Code              7 hrs 13 mins       █████████████████░░░░░░░░   69.92 % 
+Cursor                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Agent                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+iTerm2                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-wiki                     7 hrs 33 mins       █████████████████░░░░░░░░   68.41 % 
-OCR                      3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+wiki                     6 hrs 51 mins       █████████████████░░░░░░░░   66.30 % 
+OCR                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
+SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        ████████████████░░░░░░░░░   64.62 % 
-Linux                    2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Mac                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Windows                  7 hrs 7 mins        █████████████████░░░░░░░░   68.94 % 
+Linux                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 27 mins (76.57%)
+⏱ AI Coding Time: 8 hrs 27 mins (81.7%)
 
 ✍️ 5,968 lines written by AI, 12 lines written by hand (99.8% AI-written)
 
@@ -127,7 +127,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:54:48 UTC
+ Last Updated on 05/09/2026 20:33:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
