@@ -64,36 +64,33 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
-Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-PowerShell               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
+Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+PowerShell               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 13 mins       █████████████████░░░░░░░░   69.92 % 
-Cursor                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Agent                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-iTerm2                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              7 hrs 13 mins       ██████████████████░░░░░░░   72.38 % 
+Cursor                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Agent                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 🐱‍💻 Projects: 
-wiki                     6 hrs 51 mins       █████████████████░░░░░░░░   66.30 % 
-OCR                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+wiki                     6 hrs 30 mins       ████████████████░░░░░░░░░   65.12 % 
+OCR                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████░░░░░░░░   68.94 % 
-Linux                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Windows                  7 hrs 7 mins        ██████████████████░░░░░░░   71.36 % 
+Linux                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 27 mins (81.7%)
+⏱ AI Coding Time: 8 hrs 27 mins (84.57%)
 
 ✍️ 5,968 lines written by AI, 12 lines written by hand (99.8% AI-written)
 
@@ -127,7 +124,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:33:22 UTC
+ Last Updated on 06/09/2026 20:36:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
