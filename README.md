@@ -27,15 +27,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 260.4 kB Used in GitHub's Storage 
+> 📦 263.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -64,67 +64,67 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
-Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-PowerShell               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.41 % 
+Markdown                 2 hrs               ████████░░░░░░░░░░░░░░░░░   30.81 % 
+PowerShell               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 13 mins       ██████████████████░░░░░░░   72.38 % 
-Cursor                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Agent                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Claude Code              3 hrs 27 mins       █████████████░░░░░░░░░░░░   53.00 % 
+Cursor                   2 hrs               ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Agent                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+iTerm2                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-wiki                     6 hrs 30 mins       ████████████████░░░░░░░░░   65.12 % 
-OCR                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
-SkillOpt                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-skillopt_sleep_claude_6051 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+OCR                      3 hrs 28 mins       █████████████░░░░░░░░░░░░   53.46 % 
+wiki                     2 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        ██████████████████░░░░░░░   71.36 % 
-Linux                    2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Windows                  3 hrs 20 mins       █████████████░░░░░░░░░░░░   51.44 % 
+Linux                    3 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.38 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 27 mins (84.57%)
+⏱ AI Coding Time: 4 hrs 50 mins (74.25%)
 
-✍️ 5,968 lines written by AI, 12 lines written by hand (99.8% AI-written)
+✍️ 1,351 lines written by AI, 12 lines written by hand (99.12% AI-written)
 
-🔤 2,938,345 Input Tokens, 704,640 Output Tokens
+🔤 1,167,262 Input Tokens, 253,928 Output Tokens
 
-💵 $109.02 Estimated AI Cost This Week
+💵 $33.64 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 216 AI Prompts
+🧠 38 AI Sessions, 110 AI Prompts
 
-Fable                    7,375 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    1,427 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 3,681 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🤖 AI-Driven — 99.12% of written lines came from AI
+📄 Detailed Prompter — average 710 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         12 repos            ██████████████░░░░░░░░░░░   54.55 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Jupyter Notebook         12 repos            █████████████░░░░░░░░░░░░   52.17 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 20:36:48 UTC
+ Last Updated on 07/09/2026 21:39:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
