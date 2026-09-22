@@ -19,15 +19,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C649%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 263.1 kB Used in GitHub's Storage 
+> 📦 266.0 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -35,7 +35,7 @@
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -64,70 +64,69 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 48 mins      ██████████████░░░░░░░░░░░   57.12 % 
-Python                   3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 10 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.69 % 
+Python                   4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Other                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
-Agent                    6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Cursor                   4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Codex CLI                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Codex Vscode             39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Agent                    9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.70 % 
+Claude Code              7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
+Cursor                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Codex CLI                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-OCR                      20 hrs 42 mins      ███████████████████████░░   92.38 % 
-Unknown Project          1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-g-p-6aa86e00093081919316322 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-new-chat                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-new-chat-2               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+OCR                      19 hrs 21 mins      ██████████████████████░░░   88.59 % 
+Unknown Project          1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+OCR-pipeline             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+OCR-webapp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    21 hrs 44 mins      ████████████████████████░   97.03 % 
-Mac                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Linux                    21 hrs 10 mins      ████████████████████████░   96.94 % 
+Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 29 mins (91.43%)
+⏱ AI Coding Time: 19 hrs 41 mins (90.09%)
 
-✍️ 4,496 lines written by AI, 419 lines written by hand (91.48% AI-written)
+✍️ 2,697 lines written by AI, 219 lines written by hand (92.49% AI-written)
 
-🔤 7,885,374 Input Tokens, 1,286,411 Output Tokens
+🔤 7,083,500 Input Tokens, 1,192,007 Output Tokens
 
-💵 $155.94 Estimated AI Cost This Week
+💵 $133.54 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 322 AI Prompts
+🧠 31 AI Sessions, 406 AI Prompts
 
-Fable                    2,250 lines         ████████████░░░░░░░░░░░░░   49.72 % 
-GPT                      1,528 lines         ████████░░░░░░░░░░░░░░░░░   33.77 % 
-Opus                     747 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+GPT                      1,528 lines         █████████████░░░░░░░░░░░░   53.48 % 
+Opus                     747 lines           ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Fable                    582 lines           █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.48% of written lines came from AI
-📚 Verbose Prompter — average 4,384 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 8.68% of changed lines were hand-edited
+🤖 AI-Driven — 92.49% of written lines came from AI
+📚 Verbose Prompter — average 2,950 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 7.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         12 repos            █████████████░░░░░░░░░░░░   52.17 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Jupyter Notebook         12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 21/09/2026 22:06:03 UTC
+ Last Updated on 22/09/2026 21:32:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
