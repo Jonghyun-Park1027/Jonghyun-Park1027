@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C654%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -64,53 +64,53 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 10 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.69 % 
-Python                   4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Other                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Markdown                 7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
+Other                    4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Python                   4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Text                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-Agent                    9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.70 % 
-Claude Code              7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
-Cursor                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Codex CLI                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Agent                    8 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
+Claude Code              7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
+Cursor                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+iTerm2                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Codex CLI                21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-OCR                      19 hrs 21 mins      ██████████████████████░░░   88.59 % 
-Unknown Project          1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-OCR-pipeline             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-OCR-webapp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+OCR                      16 hrs 18 mins      ████████████████████░░░░░   80.64 % 
+Unknown Project          2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+OCR-pipeline             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+OCR-webapp               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Linux                    21 hrs 10 mins      ████████████████████████░   96.94 % 
-Mac                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Linux                    19 hrs 32 mins      ████████████████████████░   96.60 % 
+Mac                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 41 mins (90.09%)
+⏱ AI Coding Time: 17 hrs 39 mins (87.27%)
 
-✍️ 2,697 lines written by AI, 219 lines written by hand (92.49% AI-written)
+✍️ 1,630 lines written by AI, 219 lines written by hand (88.16% AI-written)
 
-🔤 7,083,500 Input Tokens, 1,192,007 Output Tokens
+🔤 4,720,781 Input Tokens, 1,057,279 Output Tokens
 
-💵 $133.54 Estimated AI Cost This Week
+💵 $103.82 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 406 AI Prompts
+🧠 36 AI Sessions, 386 AI Prompts
 
-GPT                      1,528 lines         █████████████░░░░░░░░░░░░   53.48 % 
-Opus                     747 lines           ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Fable                    582 lines           █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Opus                     747 lines           ██████████░░░░░░░░░░░░░░░   41.73 % 
+Fable                    582 lines           ████████░░░░░░░░░░░░░░░░░   32.51 % 
+GPT                      461 lines           ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.49% of written lines came from AI
-📚 Verbose Prompter — average 2,950 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 7.3% of changed lines were hand-edited
+🤖 AI-Driven — 88.16% of written lines came from AI
+📚 Verbose Prompter — average 2,838 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 11.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -126,7 +126,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:32:51 UTC
+ Last Updated on 23/09/2026 21:38:44 UTC
 <!--END_SECTION:waka-->
 </details>
 
