@@ -64,52 +64,52 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ██████████████████░░░░░░░   70.80 % 
-Other                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Python                   2 hrs 29 mins       ███████████████░░░░░░░░░░   58.21 % 
+Other                    1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.10 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Agent                    1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   37.55 % 
-Cursor                   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Claude Code              1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Codex Vscode             26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-iTerm2                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Cursor                   1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Claude Code              1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Codex Vscode             50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Agent                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+iTerm2                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🐱‍💻 Projects: 
-OCR-pipeline             3 hrs 1 min         ██████████████░░░░░░░░░░░   57.06 % 
-OCR-webapp               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-new-chat                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-clipper                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+OCR-pipeline             1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
+OCR-webapp               1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+new-chat                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+new-chat-3               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+clipper                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       ████████████████████░░░░░   79.85 % 
-Mac                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Linux                    2 hrs 39 mins       ███████████████░░░░░░░░░░   61.96 % 
+Mac                      1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   38.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (85.05%)
+⏱ AI Coding Time: 3 hrs 30 mins (81.93%)
 
 ✍️ 1 lines written by AI, 4 lines written by hand (20.0% AI-written)
 
-🔤 738,750 Input Tokens, 73,750 Output Tokens
+🔤 1,209,176 Input Tokens, 87,272 Output Tokens
 
-💵 $17.11 Estimated AI Cost This Week
+💵 $56.19 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 126 AI Prompts
+🧠 18 AI Sessions, 98 AI Prompts
 
 Opus                     1 lines             █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 20.0% of written lines came from AI
-📚 Verbose Prompter — average 1,758 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 2,020 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 80.0% of changed lines were hand-edited
 ```
 
@@ -126,7 +126,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:44:31 UTC
+ Last Updated on 06/10/2026 00:13:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
