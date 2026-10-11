@@ -64,43 +64,43 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 8 hrs 43 mins       ██████████████░░░░░░░░░░░   56.14 % 
-Other                    3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Markdown                 8 hrs 43 mins       ███████████████░░░░░░░░░░   58.17 % 
+Other                    3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 25 mins      ██████████████████████░░░   86.50 % 
-Codex Vscode             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Cursor                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Terminal                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Claude Code              13 hrs 25 mins      ██████████████████████░░░   89.62 % 
+Cursor                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Codex Vscode             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Terminal                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projects: 
-OCR-webapp               5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
-OCR-pipeline             3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-wiki                     2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-split                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-brave-x20                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+OCR-webapp               5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.11 % 
+OCR-pipeline             3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+wiki                     2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+split                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+new-chat-3               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Linux                    11 hrs 10 mins      ██████████████████░░░░░░░   71.96 % 
-Windows                  2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Mac                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Linux                    11 hrs 10 mins      ███████████████████░░░░░░   74.55 % 
+Windows                  2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Mac                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 22 mins (98.96%)
+⏱ AI Coding Time: 14 hrs 49 mins (98.92%)
 
 ✍️ 4,593 lines written by AI, 23 lines written by hand (99.5% AI-written)
 
-🔤 7,936,070 Input Tokens, 1,774,291 Output Tokens
+🔤 7,815,120 Input Tokens, 1,760,779 Output Tokens
 
-💵 $227.31 Estimated AI Cost This Week
+💵 $226.58 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 159 AI Prompts
+🧠 31 AI Sessions, 150 AI Prompts
 
 Fable                    4,770 lines         █████████████████████████   99.90 % 
 Opus                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
@@ -110,7 +110,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 962 characters per prompt
+📄 Detailed Prompter — average 989 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 1.63% of changed lines were hand-edited
 ```
@@ -128,7 +128,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:55:26 UTC
+ Last Updated on 11/10/2026 22:13:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
