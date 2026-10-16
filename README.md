@@ -19,9 +19,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C679%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C680%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -64,50 +64,50 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.91 % 
-Other                    2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Python                   2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Markdown                 6 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.33 % 
+Python                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Other                    2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 35 mins      ████████████████████████░   95.28 % 
-Cursor                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Notion                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Claude Code              12 hrs 36 mins      ████████████████████████░   94.39 % 
+Cursor                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Notion                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-OCR-webapp               6 hrs 13 mins       █████████████░░░░░░░░░░░░   51.21 % 
-OCR-pipeline-deploy      4 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
-split                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+OCR-webapp               6 hrs 58 mins       █████████████░░░░░░░░░░░░   52.22 % 
+OCR-pipeline-deploy      4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
+split                    1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 💻 Operating System: 
-Linux                    12 hrs              █████████████████████████   98.67 % 
-Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Linux                    13 hrs 12 mins      █████████████████████████   98.79 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (97.44%)
+⏱ AI Coding Time: 12 hrs 55 mins (96.74%)
 
-✍️ 3,329 lines written by AI, 20 lines written by hand (99.4% AI-written)
+✍️ 3,871 lines written by AI, 1,053 lines written by hand (78.61% AI-written)
 
-🔤 6,383,993 Input Tokens, 1,994,222 Output Tokens
+🔤 7,262,278 Input Tokens, 2,144,819 Output Tokens
 
-💵 $216.12 Estimated AI Cost This Week
+💵 $234.53 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 91 AI Prompts
+🧠 16 AI Sessions, 99 AI Prompts
 
-Fable                    3,685 lines         █████████████████████████   100.00 % 
+Fable                    4,227 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.4% of written lines came from AI
-📄 Detailed Prompter — average 1,407 characters per prompt
+🤖 AI-Driven — 78.61% of written lines came from AI
+📄 Detailed Prompter — average 1,414 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.62% of changed lines were hand-edited
+🚀 High AI Trust — 19.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -123,7 +123,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:35:54 UTC
+ Last Updated on 16/10/2026 21:28:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
