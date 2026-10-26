@@ -64,52 +64,52 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 24 mins       ██████████████░░░░░░░░░░░   54.40 % 
-Other                    3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Python                   1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Markdown                 7 hrs 31 mins       █████████████░░░░░░░░░░░░   52.02 % 
+Other                    2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Python                   2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 2 mins        █████████████████░░░░░░░░   66.46 % 
-Cursor                   4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              9 hrs 44 mins       █████████████████░░░░░░░░   67.43 % 
+Cursor                   4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Codex Vscode             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-OCR-pipeline-deploy      4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.50 % 
-OCR-webapp               4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-split                    4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
-https-share-gemini-google4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+OCR-webapp               4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
+OCR-pipeline-deploy      4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.82 % 
+split                    4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
+x20                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+https-share-gemini-google4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Linux                    13 hrs 32 mins      █████████████████████████   99.43 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Linux                    14 hrs 1 min        ████████████████████████░   97.01 % 
+Mac                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 37 mins (92.79%)
+⏱ AI Coding Time: 13 hrs 44 mins (95.06%)
 
-✍️ 2,868 lines written by AI, 87 lines written by hand (97.06% AI-written)
+✍️ 3,612 lines written by AI, 87 lines written by hand (97.65% AI-written)
 
-🔤 8,527,939 Input Tokens, 1,779,069 Output Tokens
+🔤 9,320,928 Input Tokens, 1,982,191 Output Tokens
 
-💵 $188.65 Estimated AI Cost This Week
+💵 $205.29 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 117 AI Prompts
+🧠 27 AI Sessions, 121 AI Prompts
 
-GPT                      2,113 lines         ██████████████████░░░░░░░   71.07 % 
-Fable                    848 lines           ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+GPT                      2,113 lines         █████████████░░░░░░░░░░░░   53.71 % 
+Fable                    1,809 lines         ███████████░░░░░░░░░░░░░░   45.98 % 
+Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.06% of written lines came from AI
-📄 Detailed Prompter — average 898 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.84% of changed lines were hand-edited
+🤖 AI-Driven — 97.65% of written lines came from AI
+📚 Verbose Prompter — average 1,532 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -125,7 +125,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:02:31 UTC
+ Last Updated on 26/10/2026 22:49:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
